@@ -613,7 +613,7 @@ export default function App() {
           <div className="flex items-center gap-4 text-xs font-semibold text-slate-500">
             <span>RFC 1878 Subnetting</span>
             <span>•</span>
-            <span>RFC 3021 /31 Point-to-Point Links</span>
+            <span>Developed by Johann Fernandez using Google AI Studio</span>
           </div>
         </div>
       </footer>
