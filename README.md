@@ -44,50 +44,6 @@ Perfect for network engineers, systems administrators, and academic students, th
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-Make sure you have [Node.js](https://nodejs.org/) (v18 or higher) and `npm` (or `bun`) installed.
-
-### Installation
-
-1. Clone or download the repository files:
-   ```bash
-   git clone <your-repository-url>
-   cd subnetting-calculator
-   ```
-
-2. Install the project dependencies:
-   ```bash
-   npm install
-   # or if using Bun:
-   bun install
-   ```
-
-3. Start the local development server:
-   ```bash
-   npm run dev
-   # or if using Bun:
-   bun dev
-   ```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
-
----
-
-## 📦 Deployment to GitHub Pages
-
-The repository comes pre-packaged with a fully-configured **GitHub Actions Workflow** (`.github/workflows/deploy.yml`) that automates deployments to GitHub Pages on every push to the `main` or `master` branch.
-
-### Quick Setup:
-1. Push this project to your personal GitHub repository.
-2. Go to **Settings** > **Pages** inside your repository.
-3. Under **Build and deployment**, change the **Source** dropdown to **GitHub Actions**.
-4. Push a commit to your branch, or trigger the workflow manually under the **Actions** tab.
-5. Your application will be live at `https://<username>.github.io/<repository-name>/`!
-
----
-
 ## 📝 Academic Guidelines
 
 When calculating VLSM allocations manually, always remember:
