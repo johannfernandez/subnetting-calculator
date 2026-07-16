@@ -1,0 +1,6 @@
+{
+  "name": "Subnetting Calculator",
+  "description": "An interactive FLSM and VLSM Subnetting Calculator featuring zoomable subnet maps, CSV/PDF exports, and shareable links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
